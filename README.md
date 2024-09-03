@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi, I’m @DiegoC-Dev!<br><br>👀 I’m interested in web development, machine learning, and cybersecurity.<br>🌱 I’m currently learning advanced ReactJS and exploring new backend frameworks.<br>💞️ I’m looking to collaborate on open-source web development projects and innovative machine learning applications.<br>📫 How to reach me: You can reach me through my GitHub or connect with me on LinkedIn.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love solving complex puzzles and often apply this passion to coding challenges!</p>
+<p align="left">Hi, I’m @Diego Cepeda!<br><br>👀 I’m interested in web development, machine learning, and cybersecurity.<br>🌱 I’m currently learning advanced ReactJS and exploring new backend frameworks.<br>💞️ I’m looking to collaborate on open-source web development projects and innovative machine learning applications.<br>📫 How to reach me: You can reach me through my GitHub or connect with me on LinkedIn.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love solving complex puzzles and often apply this passion to coding challenges!</p>
 
 ###
 
